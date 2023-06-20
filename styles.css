@@ -154,7 +154,17 @@ body{
 }
 
 
-
+.cloud01::before{
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    border-radius:100% 0% 0% 100% / 100% 31% 69% 0% ;
+    background-color: rgb(255, 255, 255);
+    right: 20%;
+    bottom: 72%;
+    opacity: 0.5;
+}
 
 
 .cloud02{
@@ -167,6 +177,18 @@ body{
     bottom: -3%;
 }
 
+.cloud02::before{
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    border-radius: 37% 63% 0% 100% / 50% 0% 100% 50%   ;
+    background-color: rgb(255, 255, 255);
+    right: 35%;
+    bottom: 34%;
+    opacity: 0.5;
+}
+
 .cloud03{
     position: absolute;
     height: 50%;
@@ -175,6 +197,19 @@ body{
     background-color: white;
     right: 15%;
     bottom: -25%;
+}
+
+.cloud03::before{
+    content: "";
+    position: absolute;
+    height: 150%;
+    width: 150%;
+    border-radius: 37% 63% 0% 100% / 50% 0% 100% 50%   ;
+    background-color: rgb(255, 255, 255);
+    right: 55%;
+    bottom: 0%;
+    opacity: 0.5;
+    transform: rotate(50deg);
 }
 
 .cloud04{
@@ -187,6 +222,21 @@ body{
     bottom: -35%;
 }
 
+.cloud04::before{
+    content: "";
+    position: absolute;
+    height: 150%;
+    width: 150%;
+    border-radius: 37% 63% 0% 100% / 50% 0% 100% 50%   ;
+    background-color: rgb(255, 255, 255);
+
+    right: 115%;
+    bottom: 10%;
+    opacity: 0.5;
+    transform: rotate(150deg);
+}
+
+
 .cloud05{
     position: absolute;
     height: 50%;
@@ -196,6 +246,19 @@ body{
     right: 45%;
     bottom: -30%;
 }
+.cloud05::before{
+    content: "";
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    border-radius:50%   ;
+    background-color: rgb(255, 255, 255);
+
+    right: 165%;
+    bottom:20%;
+    opacity: 0.5;
+    transform: rotate(10deg);
+}
 
 .cloud06{
     position: absolute;
@@ -203,7 +266,8 @@ body{
     width: 35%;
     border-radius: 50%;
     background-color: white;
-
     right: 60%;
     bottom: -30%;
 }
+
+/*CLOUD*/
