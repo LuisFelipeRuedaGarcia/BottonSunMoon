@@ -54,6 +54,10 @@ body{
     transition: 800ms ease-in-out;
 }
 
+.right{
+    left:50%;
+}
+
 .sphereBackground:hover{
     left: 3%;
 }
