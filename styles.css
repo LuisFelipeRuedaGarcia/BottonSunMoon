@@ -294,4 +294,121 @@ body{
     clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
     transform: rotate(-20deg);
 }
+
+.star02{
+    height: 25%;
+    width: 10%;
+    scale: 0.3;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+
+    left: 45%;
+    bottom: 25%;
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+} 
+
+.star03{
+    height: 25%;
+    width: 10%;
+    scale: 0.5;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+
+    left: 40%;
+    bottom: 70%;
+    transform: rotate(20deg);
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}
+
+.star04{
+    height: 25%;
+    width: 10%;
+    scale: 0.25;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+
+    left: 35%;
+    bottom: 40%;
+    transform: rotate(20deg);
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}
+
+.star05{
+    height: 25%;
+    width: 10%;
+    scale: 0.2;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+
+    left: 40%;
+    bottom: 5%;
+    transform: rotate(20deg);
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}
+
+.star06{
+    height: 25%;
+    width: 10%;
+    scale: 0.7;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+
+    left: 24%;
+    bottom: 70%;
+    transform: rotate(40deg);
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}
+
+.star07{
+    height: 25%;
+    width: 10%;
+    scale: 0.5;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+
+    left: 20%;
+    bottom: 35%;
+    transform: rotate(-60deg);
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}
+
+.star08{
+    height: 25%;
+    width: 10%;
+    scale: 0.2;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+
+    left: 10%;
+    bottom: 15%;
+    transform: rotate(-60deg);
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}
+
+
+.star09{
+    height: 25%;
+    width: 10%;
+    scale: 0.2;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+
+    left: 22%;
+    bottom: 0%;
+    transform: rotate(-60deg);
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}
+
+.star10{
+    height: 25%;
+    width: 10%;
+    scale: 0.5;
+    background-color: rgb(255, 255, 255);
+    position: absolute;
+
+    left: 5%;
+    bottom: 50%;
+    transform: rotate(-60deg);
+    clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+}
 /*Stars*/
