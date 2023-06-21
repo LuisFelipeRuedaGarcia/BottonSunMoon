@@ -284,7 +284,11 @@ body{
     position: absolute;
     aspect-ratio: 2.1/1;
     transition: 800ms ease-in-out;
-    /* bottom: 100%; */
+    bottom: 100%;
+}
+
+.newstar{
+bottom: 0%;
 }
 
 .star01{
