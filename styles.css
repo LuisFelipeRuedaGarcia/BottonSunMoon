@@ -59,7 +59,7 @@ body{
 }
 
 .sphereBackground:hover{
-    left: 3%;
+    /* left: 3%; */
 }
 
 .sphereBackground::before{
