@@ -59,7 +59,11 @@ body{
 }
 
 .sphereBackground:hover{
-    /* left: 3%; */
+    left: 3%;
+}
+
+.sphereBackground.right:hover{
+    left: 43%;
 }
 
 .sphereBackground::before{
@@ -106,10 +110,14 @@ body{
     filter: drop-shadow(2px 2px 5px #00000071);
     box-shadow: -5px -7px 5px 0px rgba(0,0,0,0.3) inset;
     top: -4%;
-    /* right: -130%; */
+    right: -130%;
     z-index: 5;
     cursor: pointer;
     transition: 800ms ease-in-out;
+}
+
+.center{
+    right: -4%;
 }
 
 .crater01{
