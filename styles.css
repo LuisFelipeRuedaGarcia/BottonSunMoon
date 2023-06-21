@@ -37,6 +37,10 @@ body{
     transition: 800ms ease-in-out;
 }
 
+.dusk{
+    background-color: black;
+}
+
 .sphereBackground{
     position: absolute;
     height: 150%;
